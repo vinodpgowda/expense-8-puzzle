@@ -1,0 +1,98 @@
+
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 12, d = 2, f(n) = 24, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 36
+Nodes Expanded: 22
+Max Fringe Size: 27
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 12, d = 2, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 28
+Nodes Expanded: 18
+Nodes Generated: 51
+Max Fringe Size: 24
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 1 Up, g(n) = 228, d = 56, parent = [[2 3 6]
+ [0 8 7]
+ [1 4 5]] >:
+Nodes Popped: 57
+Nodes Expanded: 56
+Nodes Generated: 143
+Max Fringe Size: 87
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 12, d = 2, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 28
+Nodes Expanded: 18
+Nodes Generated: 51
+Max Fringe Size: 24
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 12, d = 2, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 15
+Nodes Expanded: 11
+Nodes Generated: 29
+Max Fringe Size: 15
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 12, d = 2, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 28
+Nodes Expanded: 18
+Nodes Generated: 51
+Max Fringe Size: 24
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 1 Up, g(n) = 228, d = 56, parent = [[2 3 6]
+ [0 8 7]
+ [1 4 5]] >:
+Nodes Popped: 57
+Nodes Expanded: 56
+Nodes Generated: 143
+Max Fringe Size: 87
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 58, d = 12, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 591
+Nodes Expanded: 207
+Nodes Generated: 602
+Max Fringe Size: 23
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 12, d = 2, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 11
+Nodes Expanded: 3
+Nodes Generated: 12
+Max Fringe Size: 6
+Goal Found: < state = [[2 3 6]
+ [1 8 7]
+ [0 4 5]], action = Move 4 Right, g(n) = 12, d = 2, f(n) = 24, parent = [[2 3 6]
+ [1 8 7]
+ [4 0 5]] >:
+Nodes Popped: 36
+Nodes Expanded: 22
+Max Fringe Size: 27
+Goal Found: < state = [[1 2 3]
+ [4 5 6]
+ [7 8 0]], action = Move 8 Left, g(n) = 123, d = 22, parent = [[1 2 3]
+ [4 5 6]
+ [7 0 8]] >:
+Nodes Popped: 152
+Nodes Expanded: 83
+Nodes Generated: 228
+Max Fringe Size: 77
