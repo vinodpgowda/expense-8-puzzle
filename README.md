@@ -1,10 +1,10 @@
-1. Name - Vinod Kumar Puttamadegowda
+# Expense 8 puzzle problem
+ 
+    Building an agent to solve a modifed version of the 8 puzzle problem (called the Expense 8 puzzle problem). The task is still to take a 3X3 grid on which 8 tiles have been placed, where you can only move one tile at a time to an adjacent location (as long as it is blank) and figure out the order in which to move the tiles to get it to a desired configuration. However now the number on the tile now also represents the cost of moving that tile (moving the tile marked 6 costs 6).
 
-2. UTA ID - 1002028556
+## Programming Language and Version Used - Python 3.9.13
 
-3. Programming Language and Version Used - Python 3.9.13
-
-4. Code Structure - 
+## Code Structure - 
     - Follows Functional and Procedural Programming
     - Functions used in the main program:
         - read(file)
@@ -25,7 +25,7 @@
         - Stores the data about all the states, their costs, depths, pathways, actions, heuristic values and f(n) values in a dictionary called fringe
         - Conditional statments for the method to be used, if not found default method is A* 
 
-5. Instructions To Run The Code - 
+## Instructions To Run The Code - 
     - command line command format to run the code is :
         python expense_8_puzzle.py <start-file> <goal-file> <method> <dump-flag>
     - Example commands :
@@ -41,7 +41,7 @@
     - method and dumpFlag are optional arguments
         - default values for method is a* and for dumpFlag is false
     
-6. Contents Of The Directory - 
+## Contents Of The Directory - 
     - The source code - expense_8_puzzle.py
     - The readme file - readme.txt
     - A start file - start.txt
@@ -51,5 +51,5 @@
         If source code run with dumpFlag true, a dump.txt text file will be created in the directory
 
 
-7. dump.txt
+## dump.txt
     - Printing each node and its cost,depth,action done to get to the state, its f(n) value(only for a* search), and its parent state
